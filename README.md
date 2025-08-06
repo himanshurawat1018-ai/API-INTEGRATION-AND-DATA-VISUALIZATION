@@ -2,9 +2,9 @@
 
 COMPANY : CODTECH IT SOLUTIONS
 
-NAME : GAURAV GOSWAMI
+NAME : HIMANSHU RAWAT
 
-INTERN ID : CT04DH2307
+INTERN ID : CT04DH2741
 
 DOMAIN : PYTHON PROGRAMING
 
@@ -40,3 +40,4 @@ YouTube Tutorials Several YouTube tutorials helped me understand API integration
 OpenWeatherMap API Special thanks to OpenWeatherMap for offering free access to a robust and easy-to-use weather data API. Their clear documentation made it simple to construct proper API requests and extract the required data.
 
 # OUTPUT
+<img width="1456" height="832" alt="Image" src="https://github.com/user-attachments/assets/7fbad54e-b22e-40f8-82fc-e301c8f5eea5" />
